@@ -24,9 +24,9 @@
 > 'D' button --- Escape in battle scene
 
 ## Game sreenshots
-![map](screenshots/map.png)
-![battle](screenshots/battle.png)
-![village](screenshots/village.png)
+![map](screenshots/map.PNG)
+![battle](screenshots/battle.PNG)
+![village](screenshots/village.PNG)
 
 ## Remarks
 > All audio source: Asset Store and google search
